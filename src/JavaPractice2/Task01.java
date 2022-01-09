@@ -1,6 +1,6 @@
 package JavaPractice2;
 
-// Write a program to sum of digits of a number by taking from user input
+// Write a program to sum of digits of a number by taking input from user 
 
 import java.util.*;
 
