@@ -13,7 +13,7 @@ public class Task05 {
     }
     static void countCurrency(int amount)
     {
-        int[] notes = new int[]{1000,500,100,50,20,10,5,2,1};
+        int[] notes = {1000,500,100,50,20,10,5,2,1};
         int[] noteCounter = new int[9];
 
         for (int i = 0; i < 9; i++) {
